@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ramya Sri Bhupathi
-**🎓 Computer Science Graduate**
--💻 Aspiring Software / IT Professional
+**🎓 Computer Science Graduate**\
+-💻 Aspiring Software / IT Professional\
 -🌱 Currently improving skills in Python, Web Development & Problem Solving
 # 🚀 About Me
 I am a motivated Computer Science graduate with a strong interest in Python programming and web technologies.
