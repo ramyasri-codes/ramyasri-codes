@@ -14,9 +14,9 @@ I am looking for an entry-level IT / software role where I can grow, contribute,
 -Python Internship 
 -Bajaj Finserv Training Program
 -Community Service Project (Marketing)
-**📈 What I’m Currently Learning**
+# 📈 What I’m Currently Learning
 -Advanced Python
 -Real-world project development
 **📫 Connect With Me**
-LinkedIn: (add your LinkedIn profile link)
+LinkedIn:ramyasribhupathi
 Email:ramyasribhupathi04@gmail.com
