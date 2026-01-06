@@ -5,7 +5,7 @@
 # 🚀 About Me
 I am a motivated Computer Science graduate with a strong interest in Python programming and web technologies.\
 **📫 Connect With Me**
-LinkedIn:ramyasribhupathi
+LinkedIn:ramyasribhupathi,
 Email:ramyasribhupathi04@gmail.com
 # 🛠️ Technical Skills
 -Programming Languages: Python, Basics of Java
