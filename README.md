@@ -3,7 +3,10 @@
 -💻 Aspiring Software / IT Professional\
 -🌱 Currently improving skills in Python, Web Development & Problem Solving
 # 🚀 About Me
-I am a motivated Computer Science graduate with a strong interest in Python programming and web technologies.
+I am a motivated Computer Science graduate with a strong interest in Python programming and web technologies.\
+**📫 Connect With Me**
+LinkedIn:ramyasribhupathi
+Email:ramyasribhupathi04@gmail.com
 # 🛠️ Technical Skills
 -Programming Languages: Python, Basics of Java
 -Web Technologies: HTML, CSS
@@ -15,6 +18,4 @@ I am a motivated Computer Science graduate with a strong interest in Python prog
 # 📈 What I’m Currently Learning
 -Advanced Python
 -Real-world project development\
-**📫 Connect With Me**
-LinkedIn:ramyasribhupathi
-Email:ramyasribhupathi04@gmail.com
+
