@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**ramyasri-codes/ramyasri-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I’m Ramya Sri Bhupathi
+**🎓 Computer Science Graduate**
+-💻 Aspiring Software / IT Professional
+-🌱 Currently improving skills in Python, Web Development & Problem Solving
+# 🚀 About Me
+I am a motivated Computer Science graduate with a strong interest in Python programming and web technologies.
+I enjoy learning new technologies and building small projects to improve my practical skills.
+I am looking for an entry-level IT / software role where I can grow, contribute, and learn from real-world projects.
+# 🛠️ Technical Skills
+-Programming Languages: Python, Basics of Java
+-Web Technologies: HTML, CSS
+-Databases: Basics of SQL
+# 🎓 Internships & Training
+-Python Internship 
+-Bajaj Finserv Training Program
+-Community Service Project (Marketing)
+**📈 What I’m Currently Learning**
+-Advanced Python
+-Real-world project development
+**📫 Connect With Me**
+LinkedIn: (add your LinkedIn profile link)
+Email:ramyasribhupathi04@gmail.com
